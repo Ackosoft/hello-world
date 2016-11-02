@@ -1,5 +1,5 @@
 # hello-world
-Just another repository by AckoSoft.
+Just another repository - AckoSoft.
 
 Hello world,
 We are ackosoft people. we love to work on angular.js, node.js, coffeescript, babel script etc.
